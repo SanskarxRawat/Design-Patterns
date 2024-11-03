@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * Abstract Factory: Create a "UI Theme Factory" that produces different UI elements (buttons, text fields, dropdowns) based on the selected theme (light or dark mode).
+ */
 // Abstract Product Interfaces
 interface Button {
     void render();
