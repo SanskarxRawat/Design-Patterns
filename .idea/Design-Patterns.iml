@@ -24,6 +24,9 @@
       <sourceFolder url="file://$MODULE_DIR$/prototype-pattern/drawing-app" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/singleton-pattern/configuration-manager" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/singleton-pattern/logger" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command-pattern/smart-home" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command-pattern/text-editor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proxy-pattern/image-gallery" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
