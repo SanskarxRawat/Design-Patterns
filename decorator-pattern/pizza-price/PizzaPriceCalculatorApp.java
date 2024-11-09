@@ -53,6 +53,8 @@ class Cheese extends ToppingDecorator {
 
     @Override
     public double getCost() {
+        System.out.println("3: "+pizza.getCost());
+
         return pizza.getCost() + 1.25;
     }
 }
@@ -69,6 +71,8 @@ class Pepperoni extends ToppingDecorator {
 
     @Override
     public double getCost() {
+        System.out.println("2: "+pizza.getCost());
+
         return pizza.getCost() + 1.75;
     }
 }
@@ -85,21 +89,29 @@ class Mushrooms extends ToppingDecorator {
 
     @Override
     public double getCost() {
+        System.out.println("1 :"+pizza.getCost());
         return pizza.getCost() + 1.50;
     }
 }
+
+/**
+ * 5.00
+ * 5.00+1.25
+ * 6.25+1.75
+ * 8.00+1.50
+ */
 
 // Client Code
 public class PizzaPriceCalculatorApp {
     public static void main(String[] args) {
         Pizza pizza = new PlainPizza();
-        System.out.println(pizza.getDescription() + " - Cost: $" + pizza.getCost());
+//        System.out.println(pizza.getDescription() + " - Cost: $" + pizza.getCost());
 
         pizza = new Cheese(pizza);
-        System.out.println(pizza.getDescription() + " - Cost: $" + pizza.getCost());
+//        System.out.println(pizza.getDescription() + " - Cost: $" + pizza.getCost());
 
         pizza = new Pepperoni(pizza);
-        System.out.println(pizza.getDescription() + " - Cost: $" + pizza.getCost());
+//        System.out.println(pizza.getDescription() + " - Cost: $" + pizza.getCost());
 
         pizza = new Mushrooms(pizza);
         System.out.println(pizza.getDescription() + " - Cost: $" + pizza.getCost());
