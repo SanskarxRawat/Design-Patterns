@@ -27,6 +27,10 @@
       <sourceFolder url="file://$MODULE_DIR$/command-pattern/smart-home" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/command-pattern/text-editor" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/proxy-pattern/image-gallery" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interpreter-pattern/math-expression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interpreter-pattern/sql-interpreter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator-pattern/e-commerce-cart" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator-pattern/socail-media-feed" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
