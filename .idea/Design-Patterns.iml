@@ -31,6 +31,47 @@
       <sourceFolder url="file://$MODULE_DIR$/interpreter-pattern/sql-interpreter" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iterator-pattern/e-commerce-cart" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iterator-pattern/socail-media-feed" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter-pattern/calendar-sync-tool" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/builder-pattern/game-level-builder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/builder-pattern/website-builder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chain-of-responsibility/data-pipeline" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chain-of-responsibility/role-based-access" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chain-of-responsibility/social-media-posting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command-pattern/remote-diagnostic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composite-pattern/notification-aggregator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator-pattern/payment-processor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator-pattern/report-generator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facade-pattern/hotel-management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facade-pattern/notification-facade" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flyweight-pattern/e-book" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interpreter-pattern/language-parsing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interpreter-pattern/language-translator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mediator-pattern/chat-room" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mediator-pattern/flight-control-system" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mediator-pattern/workflow-automation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/memento-pattern/document-version-control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/memento-pattern/game-save-system" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer-pattern/news-publisher" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer-pattern/online-survey" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer-pattern/stock-market" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proxy-pattern/email-proxy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state-pattern/bank-account-management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state-pattern/traffic-light" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state-pattern/traffic-navigation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state-pattern/vending-machine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strategy-pattern/booking-system" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strategy-pattern/discount-strategy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strategy-pattern/sorting-app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template-pattern/document-conversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template-pattern/order-processing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template-pattern/recipe-builder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template-pattern/tax-filing-system" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template-pattern/video-processing-app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visitor-pattern/discount-calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visitor-pattern/file-scanner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visitor-pattern/poll-system" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visitor-pattern/tax-calculation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composite-pattern/file-search-system" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
