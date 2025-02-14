@@ -218,7 +218,5 @@ class Duck {
 Duck mallard = new Duck(new FlyWithWings());
 Duck rubberDuck = new Duck(new NoFly());
 ```
-
-
-
-
+---
+**_This content is taken from work of Alexander Shvets, the author of the book Dive Into Design Patterns and the online course Dive Into Refactoring._**
